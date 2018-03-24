@@ -619,3 +619,7 @@
 ||znyj365.com
 ||zol.com.cn
 ||zuk.cn
+
+! liuxu
+||guancha.cn
+||ustclug.org
