@@ -627,3 +627,5 @@
 ||ip.cn
 ||ip138.com
 ||sciencenet.cn
+||hikvision.com
+||huawei.com
