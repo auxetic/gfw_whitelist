@@ -631,3 +631,4 @@
 ||huawei.com
 ||iguxuan.com
 ||cas.cn
+||newsmth.net
