@@ -633,3 +633,5 @@
 ||cas.cn
 ||newsmth.net
 ||dwstatic.com
+||sciencemag.org
+||aps.org
