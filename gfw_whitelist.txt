@@ -626,17 +626,19 @@
 ||zol.com.cn
 ||zuk.cn
 
-! liuxu
+! liuxu: up
+||cas.cn
+||dwstatic.com
 ||guancha.cn
-||github.com
-||ip.cn
-||ip138.com
-||sciencenet.cn
 ||hikvision.com
 ||huawei.com
 ||iguxuan.com
-||cas.cn
-||newsmth.net
-||dwstatic.com
-||meituan.net
 ||maoyan.com
+||meituan.net
+||newsmth.net
+||sciencenet.cn
+
+! liuxu
+||github.com
+||ip.cn
+||ip138.com
