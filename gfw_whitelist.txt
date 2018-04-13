@@ -628,7 +628,6 @@
 
 ! liuxu
 ||guancha.cn
-||ustclug.org
 ||github.com
 ||ip.cn
 ||ip138.com
@@ -639,7 +638,5 @@
 ||cas.cn
 ||newsmth.net
 ||dwstatic.com
-||sciencemag.org
-||aps.org
 ||meituan.net
 ||maoyan.com
