@@ -637,16 +637,7 @@
 ||zuk.cn
 
 ! liuxu: up
-||cas.cn
-||dwstatic.com
-||guancha.cn
-||hikvision.com
-||huawei.com
-||iguxuan.com
-||maoyan.com
-||meituan.net
-||newsmth.net
-||sciencenet.cn
+||qingmang.me
 
 ! liuxu
 ||github.com
