@@ -102,6 +102,7 @@
 ||amap.com
 ||amazon.cn
 ||anjuke.com
+||anquan.org
 ||anzhi.com
 ||appgame.com
 ||appinn.com
@@ -255,6 +256,7 @@
 ||hiwifi.com
 ||hostker.com
 ||huaban.com
+||huanmusic.com
 ||huanqiu.com
 ||huiji.wiki
 ||huijistatic.com
@@ -292,6 +294,7 @@
 ||it168.com
 ||itc.cn
 ||itellyou.cn
+||iteye.com
 ||ithome.com
 
 ! J
@@ -548,6 +551,8 @@
 ||viosey.com
 ||vip.com
 ||vmall.com
+||vpgame.com
+||vpgcdn.com
 ||vpsmm.com
 ||vss.im
 ||vuejs.org.cn
@@ -609,6 +614,7 @@
 ||zcool.com.cn
 ||zhan.com
 ||zhangyao.name
+||zhanqi.tv
 ||zhaojin97.cn
 ||zhaopin.com
 ||zhihu.com
