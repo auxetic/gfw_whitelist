@@ -201,6 +201,7 @@
 ||dnspod.cn
 ||docin.com
 ||douban.com
+||douban.fm
 ||doubleclick.net
 ||douyu.com
 ||douyucdn.cn
@@ -445,6 +446,7 @@
 ||qhres.com
 ||qidian.com
 ||qihucdn.com
+||qingmang.me
 ||qiniu.com
 ||qiniucdn.com
 ||qiyukf.com
@@ -607,6 +609,7 @@
 ! Y
 ||yamibo.com
 ||yaohuo.me
+||ydstatic.com
 ||yecdn.com
 ||yesky.com
 ||yiche.com
