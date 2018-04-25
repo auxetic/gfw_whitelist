@@ -641,9 +641,6 @@
 ||zuk.cn
 
 ! liuxu: up
-||douban.fm
-||qingmang.me
-||ydstatic.com
 
 ! liuxu
 ||github.com
