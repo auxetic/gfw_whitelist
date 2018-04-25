@@ -1,5 +1,6 @@
 ! Regex
 /.+\.com\.cn/
+/.+ac.cn/
 /.+edu.cn/
 /.+gov.cn/
 /113\.55\.\d+\.\d+/
