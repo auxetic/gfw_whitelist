@@ -641,6 +641,7 @@
 ||zuk.cn
 
 ! liuxu: up
+||scitation.org
 
 ! liuxu
 ||github.com
