@@ -642,6 +642,7 @@
 
 ! liuxu: up
 ||scitation.org
+||mendeley.com
 
 ! liuxu
 ||github.com
