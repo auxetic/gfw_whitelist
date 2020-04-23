@@ -617,6 +617,8 @@
 ||ydstatic.com
 ||yecdn.com
 ||yesky.com
+||yfp2p.net
+||yfscdn.net
 ||yiche.com
 ||yinxiang.com
 ||ykimg.com
