@@ -566,6 +566,7 @@
 ||viosey.com
 ||vip.com
 ||vmall.com
+||vmallres.com
 ||vpgame.com
 ||vpgcdn.com
 ||vpsmm.com
